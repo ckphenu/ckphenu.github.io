@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[拾荒者]]></title>
+  <link href="shihuangzhe.tech/atom.xml" rel="self"/>
+  <link href="shihuangzhe.tech/"/>
+  <updated>2018-01-09T00:28:41+08:00</updated>
+  <id>shihuangzhe.tech/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[Mac 快捷键总结]]></title>
+    <link href="shihuangzhe.tech/mac-keys.html"/>
+    <updated>2018-01-08T21:55:33+08:00</updated>
+    <id>shihuangzhe.tech/mac-keys.html</id>
+    <content type="html"><![CDATA[
+<blockquote>
+<p>之前买了一个键盘膜，上边有输入法提醒，感觉蛮不错了（嘿嘿，我就是看见有快捷键才买的，快捷键总结之后，膜就再也没用过 😂）<br/>
+此博客持续更新</p>
+</blockquote>
+
+<ul>
+<li>全屏截图：command + shift + 3</li>
+<li>局部截图：command + Shift + 4</li>
+<li>彻底清除：command + delete</li>
+<li>清空废纸篓：command + Shift + delete</li>
+<li>切换程序：command + tab</li>
+<li>切换上一个程序：command + Shift + tab</li>
+<li>退出程序：command + q</li>
+<li>注销用户：command + Shift + q</li>
+<li>关闭窗口：command + option + w</li>
+<li>打开Airdrop：command + Shift + r</li>
+<li>Finder中新建标签：command + t</li>
+<li>Finder中打开实用工具：command + Shift + u</li>
+<li>Finder中显示文件简介：command + i</li>
+<li>Finder中打开iCloudDrive：command + Shift + i</li>
+<li>Finder中打开文件：command + o </li>
+<li>Finder中打开下载：command + option + l</li>
+<li>打印文件：command + p</li>
+<li>后退：command + [</li>
+<li>前进：command + ]</li>
+<li>隐藏前端端口：command + h</li>
+<li>隐藏其他窗口：command + option + h</li>
+<li>打开网络：command + Shift + k</li>
+<li>打开链接服务器：command + k</li>
+<li>打开计算机：command + Shift + c</li>
+<li>Safari 隐藏书签栏：command + Shift + b</li>
+<li>偏好设置：command + ，</li>
+<li>获取帮助：command + Shift + /</li>
+<li>打开spotlight搜索：command + 空格</li>
+<li>打开Finder搜索：command + option + 空格</li>
+<li>中英文切换：caps lock（大小写切换键）</li>
+<li>切换输入法：control + 空格</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[碎碎念]]></title>
+    <link href="shihuangzhe.tech/self-talking.html"/>
+    <updated>2018-01-06T21:17:13+08:00</updated>
+    <id>shihuangzhe.tech/self-talking.html</id>
+    <content type="html"><![CDATA[
+<blockquote>
+<p>整理生活中稍纵即逝的想法<br/>
+此博客持续更新</p>
+</blockquote>
+
+<ul>
+<li>工作就像购物，只不过你购买的不是物品而是信誉，你消费的也不是金钱而是别人对你的信任</li>
+<li>前一段时间广播里说十年里最大的变化是什么，最近朋友圈又在疯狂的晒18岁，十年前差不多也是我的18岁，这个问题让我陷入了深深的思考，不是想最大的变化，而是想，那个时候正好是无忧无虑到步入社会的转折，幸运的是在十年中每一个人生的重要节点，都能遇到那么一两个人，给我指点迷津，帮我度过难关，这些人有些是家人、亲戚、兄弟、朋友、领导、同事，也许他们中间的某些人只陪我们走一过了人生的一小段，但我们依然应该心存感激，感激他们曾经给你的某大帮助。</li>
+<li>有时候我经常反思，为什么有些人做什么事情都能游刃有余，有些人总是能风风光光叱咤风云……，那是因为在我们熬夜玩游戏的时候，在我们聚会嗨的时候，他一个人孤独的在求知，对于一个平凡人来说，只有孤独的人，才能真正静下来思考人生，才能回味过往，规划未来</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mac 应用整理]]></title>
+    <link href="shihuangzhe.tech/mac-software.html"/>
+    <updated>2018-01-04T13:52:40+08:00</updated>
+    <id>shihuangzhe.tech/mac-software.html</id>
+    <content type="html"><![CDATA[
+<blockquote>
+<p>大部分软件都非官方版本，请慎重，你懂的<br/>
+我的原则是能用官方提供的就尽量不找第三方，不是因为官方是最好的，而是不愿意装太多相同性质的软件<br/>
+如果下载链接失效，请自行搜索<br/>
+推荐网站：<a href="http://xclient.info/">http://xclient.info/</a><br/>
+推荐网站：<a href="https://nicoapp.pipipan.com/dir/13311048-20509288-95d6dc/24612944/">https://nicoapp.pipipan.com/dir/13311048-20509288-95d6dc/24612944/</a><br/>
+此博客持续更新</p>
+</blockquote>
+
+<h4 id="toc_0">软件开发类</h4>
+
+<ul>
+<li><a href="https://www.jetbrains.com/">Intellij IDEA</a> 公认的Java开发工具，社区版是免费，功能基本够用，当然你要是有情怀可以支持一下商业版，如果你要是屌丝，请点击<a href="http://idea.lanyus.com/">这里</a>。 </li>
+<li><a href="https://code.visualstudio.com/">VS Code</a> 特别适合前端开发，也可以作为文本编辑器和markdown编辑器用，支持各种插件</li>
+<li><a href="https://www.sourcetreeapp.com/">SourceTree</a> 可以理解为Git图形化工具，非常好用</li>
+<li><a href="https://www.getpostman.com/apps">Postman</a>用与模拟Ajax请求，可以作为restfull API的测试工具，功能相当强大</li>
+<li><a href="http://xclient.info/s/navicat-premium.html?_=f37c6cb857d69c0cfc2ba4c3a80c87ce">Navicat Premium</a> 一款功能超全的数据库客户端</li>
+<li><a href="https://dbeaver.jkiss.org/download/">DBeaver</a> 数据库客户端，支持H2等内存数据库的连接</li>
+<li><a href="http://xclient.info/s/shellcraft.html?_=f37c6cb857d69c0cfc2ba4c3a80c87ce">ShellCraft</a>强大的SSH/Telnet客户端</li>
+<li><a href="http://xclient.info/s/transmit.html?_=f37c6cb857d69c0cfc2ba4c3a80c87ce">Transmit</a>功能齐全的FTP客户端</li>
+<li><a href="https://redisdesktop.com/">Redis Desktop Manager</a> Redis 桌面应用程序</li>
+</ul>
+
+<h4 id="toc_1">辅助使用类</h4>
+
+<ul>
+<li><a href="https://www.mediaatelier.com/CheatSheet/">Cheatsheet</a> 快捷键提醒，长按 command 键会弹出当前焦点软件的全部快捷键</li>
+<li>百度云下载插件【<a href="https://github.com/yangshun1029/aria2gui/releases">Aria2GUI</a>】附上使用<a href="http://xclient.info/a/6b6c46df-3e4f-1b17-ae30-0c8b49df92cc.html?_=2049e4bd2dbad1d5e9ee472e9b2a2384">教程</a></li>
+<li><a href="http://xclient.info/s/eudic.html?_=2049e4bd2dbad1d5e9ee472e9b2a2384">欧路词典</a>专为MAC而生的词典</li>
+<li><a href="https://www.smartisan.com/apps/handshaker">HandShaker</a> Mac 电脑上也可以方便自如地管理 Android 手机中的内容，锤子给我最大的惊喜</li>
+</ul>
+
+<h4 id="toc_2">日常工作类</h4>
+
+<ul>
+<li>奇妙清单</li>
+<li>网易邮箱大师</li>
+<li>微软远程连接</li>
+<li>Zoom.us 远程会议</li>
+<li>有道云笔记</li>
+<li>有道云协作</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[高效人士的七个习惯]]></title>
+    <link href="shihuangzhe.tech/sevenHabitsOfHighlyEffectivePeople.html"/>
+    <updated>2018-01-03T20:18:11+08:00</updated>
+    <id>shihuangzhe.tech/sevenHabitsOfHighlyEffectivePeople.html</id>
+    <content type="html"><![CDATA[
+<blockquote>
+<p>The Seven Habits Of Highly Effective People  高效能人士的七个习惯</p>
+</blockquote>
+
+<ul>
+<li>习惯一：积极主动-个人愿景的原则</li>
+<li>习惯二：以终为始-自我领导的原则</li>
+<li>习惯三：要事第一-自我管理的原则</li>
+<li>习惯四：双赢思想-人际领导的原则</li>
+<li>习惯五：知彼解己-移情沟通的原则</li>
+<li>习惯六：统合综效-创造性合作的原则</li>
+<li>习惯七：不断更新-平衡的自我更新的原则</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[利用mWeb搭建免费的博客]]></title>
+    <link href="shihuangzhe.tech/buildBlogByMweb.html"/>
+    <updated>2018-01-03T20:10:43+08:00</updated>
+    <id>shihuangzhe.tech/buildBlogByMweb.html</id>
+    <content type="html"><![CDATA[
+<blockquote>
+<p>作为博客的第一篇文章，记录博客搭建的心酸历程，历时两个晚上，每天到凌晨3点，终于弄懂了其中的一点眉目</p>
+
+<p>版本及修改历史：<br/>
+2018-01-03:初始化文章架构，列出简要教程</p>
+
+<p>待完成列表：</p>
+
+<ul>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> <del>使用百度云提供图床功能介绍（目前文档的图片及来自百度云的分享）</del> 经测试图片链接无法长久保存，任务删除
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> SM.MS 免费图床工具
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 文档模版的修改
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 博客菜单的配置
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 通过GitHub Page创建免费的博客
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 通过Coding Page创建免费的博客
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 利用sourceTree 推送生成的静态网页到服务器
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 摘抄官网通过命令行直接push 静态网页到服务器的功能
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> mWeb 一些常用命令的解释
+</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" checked /> 添加域名解析（coding page）
+</li>
+</ul>
+</blockquote>
+
+<p><del>通过GitHub Page创建免费的博客</del><br/>
+<del>通过Coding Page创建免费的博客</del></p>
+
+<h4 id="toc_0">利用mWeb 编辑博客</h4>
+
+<p>第一步肯定是先去<a href="http://zh.mweb.im/" target="_blank">官网</a>下载安装文件了，当然你要是一个穷屌丝，又没有情怀，请根据国情自行安装软件。<br/>
+言归正传，我们需要先创建一个分类，启动APP，点击在左下角的 “➕” 号，选择【新增分类】，弹出如下框,填写相应的名称，选择【设置为静态网站】</p>
+
+<p><img src="https://i.loli.net/2018/01/06/5a4fa9f0cc122.jpg" alt="新增类别_1"/></p>
+
+<p>会弹出如下页面，根据需要进行相应的设置。</p>
+
+<p><img src="https://i.loli.net/2018/01/06/5a4faa465f0df.jpg" alt="新增类别_2"/></p>
+
+<blockquote>
+<p>关于生成路径的设置：clone Github的仓库默认是新创建的目录，所以个人喜好在，生成位置设置的目录里面，新建目录用来clone GitHub，并将刚才网站的名称指定为刚才创建的目录名称。这样在执行【生成网站】的时候就会把静态文件直接生成到GitHub目录，就可以直接push到服务了。</p>
+</blockquote>
+
+<p>进行完简要的设置之后，我们就可以编写第一个遍博客了。</p>
+
+]]></content>
+  </entry>
+  
+</feed>
